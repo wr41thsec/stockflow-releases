@@ -21,12 +21,18 @@ All versions and their notes: [Releases](https://github.com/wr41thsec/stockflow-
 ## Getting started
 
 1. Install StockFlow on the till computer or phone.
-2. Sign up with your email. Your shop starts a **15-day free trial** straight away.
-3. Add your products through **Purchase** (scan the barcode or type them in),
-   then start selling from **Sell**.
+2. Sign up with your email. StockFlow approves new accounts by hand, so you
+   will see "Waiting for approval" until we do. Approval starts your
+   **15-day free trial**.
+3. Add your products through **Purchase** (scan the barcode with your phone's
+   camera, or type them in), then start selling from **Sell**.
 4. Add staff from **All sections › Roles**; each person signs in with their own
    account and sees only what their role allows.
-5. Before the trial ends, contact StockFlow to extend your shop's licence.
+5. StockFlow is a **monthly plan**, paid in person to StockFlow Labs. Each
+   payment adds 30 days. If a paid month runs out you get **5 grace days**; after
+   that (or after a trial that was not renewed) the app turns **view-only**: you
+   can look at everything, but nothing can be added, edited or sold until you
+   renew. Your data is never deleted.
 
 ## What StockFlow does
 
